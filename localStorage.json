@@ -1,0 +1,7 @@
+{
+  "-CBWSDK:VERSION" : "4.2.4",
+  "@appkit\/active_namespace" : "eip155",
+  "@appkit\/active_caip_network_id" : "eip155:1",
+  "CF_ID" : "1776150650",
+  "@appkit\/connection_status" : "disconnected"
+}
